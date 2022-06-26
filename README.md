@@ -1,7 +1,11 @@
 # Tuwaiq-Academy-Project
 
+project description:
+--
 In this project we created a library management system using dart language that does these tasks
 
+Services provided in our system:
+--
   1- Add a book
   
   2- Delete a book
@@ -12,7 +16,8 @@ In this project we created a library management system using dart language that 
   
   5- Sell a book
   
-There are several types of books 
+There are several types of books:
+--
 
   1- an electronic book 
   
